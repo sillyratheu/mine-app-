@@ -15,6 +15,7 @@
     "ios": {
       "bundleIdentifier": "com.yourname.appmine"
     },
+    "owner": "ramim123s-team",
     "extra": {
       "eas": {
         "projectId": "30f3c66b-58d7-4158-8861-32518e89236d"
